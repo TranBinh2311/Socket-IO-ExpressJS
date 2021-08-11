@@ -1,0 +1,13 @@
+body{background-color: #e3e1da;}
+#wrapper{width : 600px margin :auto}
+#txtUserName{background-color: : transparent; border: :solic 1px black;}
+#left, #right:{min-height: 300px}
+#left{width: 30%; float : left; background-color:#f7d768;}
+#right{width: 70%; float:  right; background-color: #45f2f5;}
+
+
+#boxTitle{border: : solid 1px back; padding:: 5px; text-align: center ;font-weight: bold;}
+#boxContent{border: : solid 1px back; boder-top:  none; padding: 5px; text-align: center;}
+#sayHi{text-align: right;}
+#listMessages{height: 200px; background-color:  #fcead4; margin-bottom: 15px;}
+#txtMessage{background-color: transparent; border: solid 1px black;}
